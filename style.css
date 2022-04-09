@@ -1,0 +1,15 @@
+img {
+    border: 1px solid black;
+}
+section {
+    outline: solid black;
+    padding: 5px;
+}
+
+section p {
+    outline: solid black;  
+}
+
+article {
+    outline: solid pink;
+}
